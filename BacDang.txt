@@ -1,1 +1,2 @@
 BacDang training
+Bai 2. Dong bo tu Githhub ve local
