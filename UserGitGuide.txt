@@ -1,0 +1,30 @@
+Bai1. Tao repository, add file, push len git
+1. git clone https://github.com/BacDD/git.git
+-> keo source tu` git vê` local
+--------------------------------------------------------
+2. git status
+-> biet tinh trang cac file
+--------------------------------------------------------
+3. git add * or git add BacDang.txt
+-> add file vao project
+--------------------------------------------------------
+4. git status
+-> found new file
+--------------------------------------------------------
+5. git commit -m"add file vao local"
+-> add new file to local 
+--------------------------------------------------------
+6. git push
+-> dong bo len github
+========================================================
+Bai 2. backup repository, dong bo tu GitHub xuong local
+========================================================
+8. git log
+-> lay id nhung lan commit
+Ctrc+ c dung log
+--------------------------------------------------------
+9. git revert xxxxx
+esc + Shift : + q 
+--------------------------------------------------------
+10. git pull
+-> cap nhat dong bo tu git ve
