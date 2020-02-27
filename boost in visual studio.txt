@@ -1,0 +1,2 @@
+C/C++ : Additional Include Directories: D:\Program\boost_1_72_0
+Linker: Additinal Library Directories: D:\Program\boost_1_72_0\stage\lib
